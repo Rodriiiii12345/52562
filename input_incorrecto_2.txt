@@ -1,0 +1,2 @@
+x = "texto" + 5; // ❌ Error: No se permite concatenación entre cadena y número
+console.log(x);
